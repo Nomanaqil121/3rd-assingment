@@ -1,2 +1,2 @@
-# 3rd-assingment
+# 3rd-assignment
 # Live Demo : https://saylanihomepage3rdassingment.web.app/
